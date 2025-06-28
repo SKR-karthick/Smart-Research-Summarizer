@@ -2,10 +2,6 @@
 
 A Streamlit-based application that helps users analyze and interact with documents through AI-powered features.
 
-## 🌐 Live Demo
-
-**Deploy this app on Streamlit Cloud**: [Deploy Now](https://share.streamlit.io)
-
 ## Features
 
 - **Document Upload**: Support for PDF and TXT files
