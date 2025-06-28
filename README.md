@@ -124,7 +124,3 @@ The application uses lightweight text processing instead of heavy AI models:
 2. Try asking: "What is AI used for in healthcare?"
 3. Test the Challenge Me mode with generated questions
 4. All responses will reference the source document
-
-## Contributing
-
-This is a simplified implementation designed for educational purposes and basic document analysis tasks.
