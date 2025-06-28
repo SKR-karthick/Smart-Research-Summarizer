@@ -10,19 +10,6 @@ A Streamlit-based application that helps users analyze and interact with documen
 - **Challenge Me Mode**: Auto-generated comprehension questions with evaluation
 - **Grounded Responses**: All answers include justifications from the source document
 
-## 🚀 Quick Deployment to Streamlit Cloud
-
-1. **Fork/Clone** this repository to your GitHub account
-2. **Visit** [share.streamlit.io](https://share.streamlit.io)
-3. **Sign in** with your GitHub account
-4. **Click "New app"**
-5. **Select** your repository and set:
-   - **Main file path**: `app.py`
-   - **Python version**: 3.8+
-6. **Click "Deploy"**
-
-Your app will be live in minutes at `https://your-app-name.streamlit.app`
-
 ## Setup Instructions
 
 ### Prerequisites
