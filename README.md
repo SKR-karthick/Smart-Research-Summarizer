@@ -1,4 +1,4 @@
-# Smart Research Assistant
+# Smart Research Summarizer
 
 A Streamlit-based application that helps users analyze and interact with documents through AI-powered features.
 
